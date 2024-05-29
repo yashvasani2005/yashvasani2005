@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashvasani2005
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me vasaniyash2005@gmail.com
 
 <!---
